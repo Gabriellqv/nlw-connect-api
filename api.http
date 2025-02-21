@@ -1,0 +1,27 @@
+POST http://localhost:3333/subscriptions
+Content-Type: application/json
+
+{
+  "name": "Gabriel",
+  "email": "gabriel@email.com"
+}
+
+###
+
+GET http://localhost:3333/invites/Gabriel
+
+###
+
+GET http://localhost:3333/subscribers/:Gabriel/ranking/clicks
+
+###
+
+GET http://localhost:3333/subscribers/:Gabriel/ranking/count
+
+###
+
+GET http://localhost:3333/subscribers/:Gabriel/ranking/position
+
+###
+
+GET http://localhost:3333/ranking
