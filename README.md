@@ -249,7 +249,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👤 Autor
 
-**Gabriel Luis de Queiroz Vieira**
+**Gabriel L. Queiroz Vieira**
 
 - GitHub: [@Gabriellqv](https://github.com/Gabriellqv)
 
